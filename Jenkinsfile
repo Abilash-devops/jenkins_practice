@@ -9,7 +9,7 @@ pipeline {
                 ls -ltr
                 echo "Hello world"
                 '''
-                echo "this is from github webhook"
+                echo "this is from github webhoook"
             }
         }
         stage('Test') { 
